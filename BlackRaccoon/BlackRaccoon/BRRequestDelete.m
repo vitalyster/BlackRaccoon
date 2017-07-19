@@ -45,7 +45,7 @@
 
 //---------- include files
 #import "BRRequestDelete.h"
-
+#include <removefile.h>
 
 
 //---------- enumerated data types
